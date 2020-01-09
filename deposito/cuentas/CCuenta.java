@@ -1,7 +1,15 @@
 package cuentas;
+
+/**
+ * Esta es la clase CCuenta
+ * @author carlo
+ * @version 1.0
+ * @since 09/01/2020
+ * */
+
 public class CCuenta {
 
-
+	/** Esta clase tiene siempre 4 atributos*/
     private String nombre;
     private String cuenta;
     private double saldo;
